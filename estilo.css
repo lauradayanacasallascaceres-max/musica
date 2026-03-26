@@ -1,0 +1,41 @@
+body{ 
+    background-color: rgb(231, 161, 206);
+    background-image:linear-gradient(rgb(239, 171, 224),rgb(218, 96, 188),rgb(233, 90, 198),rgb(237, 62, 185));
+    background-image: url("fondo2.avif");
+    background-size: 100%;
+}
+
+h1{
+color: blueviolet;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+font-size: 500%;
+}
+
+h3{
+    font-size: 100%;
+
+}
+div{
+    background-color: antiquewhite;
+    border: 3px solid blueviolet;
+    padding: 10%;
+    margin-right: 10%;
+    margin-left: 20%;
+    margin-top: 10%;
+    img{
+        width: 90%;
+    height: 90%;}
+    object-position: 50px 50;
+}
+
+p{
+    text-align: center;
+
+}
+.normal{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    size: 10;
+    color: brown;
+}
